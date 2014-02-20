@@ -1,0 +1,2 @@
+export(solartime, solalt, solazi, solarindex, beamrad, diffuserad, coastal, swrad, swrad.raster, swrad2.raster, srad.raster, trans, micEuroclim)
+import(raster)

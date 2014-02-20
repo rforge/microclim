@@ -1,0 +1,10 @@
+Package: microclim
+Type: Package
+Title: Microclimate predictions
+Version: 1.0.3
+Date: 2014-1-18
+Author: Jon Bennie, Richard Gunton
+Maintainer: Richard Gunton <fbsrmg@leeds.ac.uk>
+Imports: raster
+Description: A suite of functions to calculate variables useful in microclimate modelling: currently for solar radiation (globally) and ground temperature (in Europe)
+License: GPL-2
